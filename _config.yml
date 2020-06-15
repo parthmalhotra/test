@@ -1,1 +1,2 @@
-include: [".well-known/acme-challenge"]
+theme: jekyll-theme-minimal
+include: [".well-known",".well-known/acme-challenge"]
