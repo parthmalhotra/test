@@ -1,8 +1,0 @@
----
-layout: none
-permalink: .well-known/acme-challenge/gg
----
-This is a Brave Payments publisher verification file.
-
-Domain: ffff.xyz
-Token: fbaedb436ggg3f8ee045549b3845e156403dfba3dcc5f73843dc56fc1c68d9d40b0
