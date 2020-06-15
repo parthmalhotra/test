@@ -1,6 +1,6 @@
 ---
 layout: none
-permalink: .well-known/lol/bb.txt
+permalink: .well-known/acmechallenge/bb.txt
 ---
 This is a Brave Payments publisher verification file.
 
