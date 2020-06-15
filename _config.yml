@@ -1,4 +1,2 @@
-theme: jekyll-theme-minimal
 include: [".well-known"]
 include: [".well-known/acme-challenge"]
-include: [".well-known/acme-challenge/6FQrgzDHcZQ9XpDegdjUJoWWoXeLXDwEX7Rut2TbCns"]
