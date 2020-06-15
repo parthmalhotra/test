@@ -1,2 +1,4 @@
 include: [".well-known"]
+include: [".well-known/hahaha"]
+include: [".well-known/acme-challenge"]
 theme: jekyll-theme-cayman
